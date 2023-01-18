@@ -1,0 +1,65 @@
+header{
+    background-color: rgb(25, 25, 140);
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 1.6vh;
+    border: .1em solid black;
+    border-radius: .2em;
+}
+p{
+    text-align: center;
+    
+    
+}
+h1{
+    background-color: rgb(144, 203, 224);
+    padding: 1vh;
+}
+.my-style{
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+.the-style{
+    font-size:x-large;
+}
+.body-a{
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+.body-b{
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+.nike-logo{
+    height: 60px;
+    width: 60px;
+}
+
+.end{
+    display: flex;
+    justify-content: flex-end;
+    transform: translateY(-200px);
+    margin-right: 4vw;
+    
+}
+.side-article{
+    display: flex;
+    justify-content: flex-end;
+    transform: translateY(-100px);
+    margin-right: 4vw;
+
+}
+
+
+footer{
+    background-color: rgb(25, 25, 140);
+    height: 10vh;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
+
+body  {
+    width: 100%;
+}
